@@ -3,8 +3,11 @@
 This is based off the React tutorial. The goal of this is to improve my react and front-end skills through a hands-on approach.
 
 Future to-do's:
+
 -Visual improvements
+
 -Redux
+
 -Additional Functionality
 
 
