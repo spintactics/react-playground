@@ -1,3 +1,13 @@
+## Rain's React-Playground
+
+This is based off the React tutorial. The goal of this is to improve my react and front-end skills through a hands-on approach.
+
+Future to-do's:
+-Visual improvements
+-Redux
+-Additional Functionality
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
